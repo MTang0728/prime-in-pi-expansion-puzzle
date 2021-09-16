@@ -1,5 +1,4 @@
 # Prime in π Expansion Puzzle
-# Euler Project
 
 This repository contains the solution to one of Google's recruiment puzzle, which asks candidates to find the first 10-digit prime in the arbitrary epxansion of π.
 
